@@ -35,8 +35,6 @@ h1, h2, h3, h4, h5, h6 {
 .address a {
   padding: 5px;
   background-color:#b0e7ff;
-  -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color:#477b91;
   border-radius:5px;
   color:white;
 }
